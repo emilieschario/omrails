@@ -26,6 +26,9 @@ gem 'jbuilder', '~> 2.5'
 #Add Bootstrap for the site
 gem 'bootstrap', '~> 4.0.0.alpha4'
 ##Add tooltips & popovers
+gem 'devise'
+
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.1.0'
 end
