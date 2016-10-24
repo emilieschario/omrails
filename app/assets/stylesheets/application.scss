@@ -1,4 +1,8 @@
 // Custom bootstrap variables must be set or imported before bootstrap itself.
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import "bootstrap_customizations";
+
 @import "bootstrap";
 @import "pages";
-@import "signin_and_signup"
+@import "signin_and_signup";
